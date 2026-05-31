@@ -1,0 +1,57 @@
+{
+  "scan_time": "2026-05-23T02:03:23.694152",
+  "local_ip": "192.168.1.25",
+  "gateway_ip": "192.168.1.1",
+  "network_range": "192.168.1.0/24",
+  "total_found": 4,
+  "devices": [
+    {
+      "ip": "192.168.1.25",
+      "mac": "C4:23:60:8D:95:2D",
+      "hostname": "DESKTOP-KAPPV7V",
+      "vendor": "Unknown",
+      "device_type": "Windows PC",
+      "icon": "\ud83d\udda5\ufe0f",
+      "confidence": "Medium",
+      "is_local": true,
+      "is_gateway": false,
+      "last_seen": "2026-05-23T02:03:23.694152"
+    },
+    {
+      "ip": "192.168.1.1",
+      "mac": "C4:27:28:46:C8:F8",
+      "hostname": "192.168.1.1",
+      "vendor": "Unknown",
+      "device_type": "Router",
+      "icon": "\ud83c\udf10",
+      "confidence": "High",
+      "is_local": false,
+      "is_gateway": true,
+      "last_seen": "2026-05-23T02:03:17.751166"
+    },
+    {
+      "ip": "192.168.1.3",
+      "mac": "1A:9B:9C:2E:D5:A9",
+      "hostname": "192.168.1.3",
+      "vendor": "Unknown",
+      "device_type": "Linux/Android",
+      "icon": "\ud83d\udc27",
+      "confidence": "Medium",
+      "is_local": false,
+      "is_gateway": false,
+      "last_seen": "2026-05-23T02:03:21.813631"
+    },
+    {
+      "ip": "192.168.1.4",
+      "mac": "DC:29:19:6B:42:80",
+      "hostname": "192.168.1.4",
+      "vendor": "AltoBeam-IoT",
+      "device_type": "Linux/Android",
+      "icon": "\ud83d\udc27",
+      "confidence": "Medium",
+      "is_local": false,
+      "is_gateway": false,
+      "last_seen": "2026-05-23T02:03:19.919398"
+    }
+  ]
+}
